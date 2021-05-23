@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelmawgood&show_icons=true&include_all_commits=true&theme=Dinky" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelmawgood&layout=compact&theme=Merlot" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelmawgood&show_icons=true&include_all_commits=true&theme=Hacker" alt="TheAbbie's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelmawgood&layout=compact&theme=Hacker" />
 <!--
 **AhmedAbdelmawgood/AhmedAbdelmawgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
